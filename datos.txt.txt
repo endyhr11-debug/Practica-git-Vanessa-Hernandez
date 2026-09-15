@@ -2,3 +2,5 @@ El siguiente ejercicio tiene el objetivo de que el alumno comprenda y sea capaz 
 mediante windows powershell
 
 Este archivo fue modificado desde GitHub.
+
+Este archivo fue modificado desde el repositorio local.
