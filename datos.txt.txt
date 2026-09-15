@@ -1,0 +1,2 @@
+El siguiente ejercicio tiene el objetivo de que el alumno comprenda y sea capaz de crear un repositorio en git y sincronizarse con git
+mediante windows powershell
